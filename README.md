@@ -1,5 +1,8 @@
 # Asynchronous SQLAlchemy Object Relational Mapper.
 
+[![PyPI](https://img.shields.io/pypi/v/aiosqlalchemy-miniorm.svg?maxAge=3600)](https://pypi.python.org/pypi/aiosqlalchemy-miniorm)
+[![Python Versions](https://img.shields.io/pypi/pyversions/aiosqlalchemy-miniorm.svg?maxAge=3600)](https://pypi.python.org/pypi/aiosqlalchemy-miniorm)
+
 This is an ORM for accessing SQLAlchemy using asyncio. Working on top of SQLAlchemy Core.
 
 It presents a method of associating user-defined Python classes with database tables, and instances of those classes (objects) with rows in their corresponding tables.
