@@ -32,6 +32,7 @@ setup(
     packages=find_packages(),
     long_description=read_file(os.path.join(ROOT_DIR, 'README.md')),
     include_package_data=True,
+    author='Wargaming Team',
     install_requires=[
         'sqlalchemy',
     ],
